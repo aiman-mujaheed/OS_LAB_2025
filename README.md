@@ -1,6 +1,6 @@
 ﻿# ⚙️ TDB 2043 Operating System
 
-👨‍💻 ** Wan **  
+👨‍💻 **Wan**  
 🎓 *Student ID:* 22011230
 📚 *Course:* TDB 2043 
 
