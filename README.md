@@ -1,39 +1,45 @@
-﻿# ⚙️ TEB1113_TFB2023 - Algorithm Data Structure (ADS)
+﻿# ⚙️ TDB 2043 Operating System
 
-👨‍💻 **Wan**  
-🎓 *Student ID:* 22011230  
-📚 *Course:* TEB1113 / TFB2023  
+👨‍💻 ** Wan **  
+🎓 *Student ID:* 22011230
+📚 *Course:* TDB 2043 
 
 ---
 
 ## 🧪 Lab Tasks Overview
 
-| 📅 **Date** | 🧠 **Topic** | 💻 **Lab Tasks** |
-|-------------|--------------|------------------|
-| 25/10/02 | **Struct** | [🧩 **Task 01**](https://github.com/aiman-mujaheed/OS_LAB_2025/blob/main/25_10_02-Task1-2-3/task_1.c) |
-| 25/10/02 | **Matrix** | [🟢 **Task 01 - Easy**](https://github.com/aiman-mujaheed/OS_LAB_2025/blob/main/25_10_02-Task1-2/task_1.c)<br>[🟡 **Task 02 - Medium**](https://github.com/aiman-mujaheed/OS_LAB_2025/blob/main/25_10_02-Task1-2/task_2.c) |
-| 25/10/23 | **Linked List** | [🔗 **Task 01 - Single Linked List**](https://github.com/aiman-mujaheed/OS_LAB_2025/blob/main/25_10_23-Task1-2-3-4/task_1.c)<br>[🔁 **Task 02 - Double Linked List**](https://github.com/aiman-mujaheed/OS_LAB_2025/blob/main/25_10_23-Task1-2-3-4/tasks_2.c)<br>[ **Task 03 - Modified Single Linked List**](https://github.com/aiman-mujaheed/OS_LAB_2025/blob/main/25_10_23-Task1-2-3-4/tasks_3.c)<br>[**Task 04 - Modified Double Linked List**](https://github.com/aiman-mujaheed/OS_LAB_2025/blob/main/25_10_23-Task1-2-3-4/tasks_4.c) |
-| 25/10/30 | **Modified Linked List** | [🔄 **Task 01 - Modified Single Linked List**](https://github.com/aiman-mujaheed/OS_LAB_2025/blob/main/25_10_30-Task1-2/task_1.c)<br>[🔄 **Task 02 - Modified Double Linked List**](https://github.com/aiman-mujaheed/OS_LAB_2025/blob/main/25_10_30-Task1-2/task_2.c) |
+| 📅 **Date** | 💻 **Lab Tasks** |
+|-------------|------------------|
+| 25/10/02 | 🧩 [**Task 01 - System Calls of UNIX (opendir, readdir, closedir)**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_02/task1.cpp)<br>🔧 [**Task 02 - System Calls of UNIX (fork, getpid, exit)**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_02/task2.cpp) |
+| 25/10/09 | 🗂️ [**Task 01 - Simulation of cp Command**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_09/task1.cpp)<br>📁 [**Task 02 - Simulation of ls Command**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_09/task2.cpp)<br>🔍 [**Task 03 - Simulation of grep Command**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_09/task3.cpp) |
+| 25/10/16 | 💡 [**Task 01 - Shell Program: Even or Odd**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_16/task1.sh)<br>🌙 [**Task 02 - Shell Program: Checking Leap Year**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_16/task2.sh)<br>🧮 [**Task 03 - Shell Program: Factorial of a Number**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_16/task3.sh)<br>🔁 [**Task 04 - Shell Program: Swap Two Numbers**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_16/task4.sh) |
+| 25/10/23 | 🧩 [**Task 01 - CPU Scheduling Algorithm - Priority**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_23/task1.c)<br>⚙️ [**Task 02 - CPU Scheduling Algorithm - Round Robin**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_23/task2.c)<br>🧮 [**Task 03 - CPU Scheduling Algorithm - FCFS**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_23/task3.c)<br>⚡ [**Task 04 - CPU Scheduling Algorithm - SJF**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_23/task4.c) |
+| 25/10/30 | 🧩 [**Task 01 - Producer Consumer Problem Using Semaphores)**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_30/task1.c)<br>🔧 [**Task 02 - IPC Using Shared Memory**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_30/task2.c) |
+| 25/11/06 | 🏦 [**Task 01 - Bankers Algorithm for Deadlock Avoidance**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_11_6/task1.c)<br>💻 [**Task 02 - Algorithm for Deadlock Detection**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_11_6/task2.c)<br>🧵 [**Task 03 - Threading & Synchronization Applications**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_11_6/task3.c) |
 
 ---
 
 ## 🏗️ Repository Info
 
-🚀 This repository contains all **ADS lab exercises** for Semester 2025.  
+🚀 This repository contains all **OS lab exercises** for Semester 2025.  
 Each task demonstrates understanding of data structures like `structs`, `matrices`, and `linked lists`.  
 Code is written in **C++** and follows clean, readable standards.
 
 ---
 
-## 🧰 Tech Stack
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## 🧰 Tools & Technologies
+
+![C Language](https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
 
 ---
 
 ## 🌟 Author
-**Wan**  
-📫 [GitHub Profile →](https://github.com/aiman-mujaheed)
+**Nishi Kenshin**  
+📫 [GitHub Profile →](https://github.com/n1shikenshin)
 
 > “Code it. Debug it. Learn it.” 🧠
