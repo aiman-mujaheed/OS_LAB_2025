@@ -41,5 +41,5 @@ Code is written in **C++** and follows clean, readable standards.
 **WAN**  
 📫 [GitHub Profile →](https://github.com/aiman-mujaheed)
 
-> _"Code it. Debug it. Learn it."_
+> _"Code it. Debug it. Learn it."_  
 > _"Every expert was once a beginner - the most important thing is to keep building."_
